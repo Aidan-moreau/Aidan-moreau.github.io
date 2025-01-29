@@ -1,0 +1,8 @@
+.page__header {
+    position: relative;
+    text-align: center;
+    color: #000000;
+    -webkit-box-shadow: 0 4px 11px rgba(124,146,169,.5);
+    box-shadow: 0 4px 11px rgba(124,146,169,.5);
+    width: 100%
+}
